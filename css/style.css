@@ -415,6 +415,14 @@ button {
      list-style-type:  circle;
      
 }
+.comingfir{
+     font-size: 70px;
+     color: yellowgreen;
+}
+.comingsec{
+     font-size: 90px;
+     color: white;
+}
 .service-style{
      color: rgb(255, 255, 255);
 }
@@ -461,16 +469,17 @@ button {
      padding-bottom: 90px;
 }
 .care_taital {
-    width: 75%;
+    width: 100%;
     float: left;
-    padding-top: 90px;
+    padding-top: 10px;
+    padding-left: 90px;
 }
 .finest_text{
      width: 100%;
      float: left;
-     font-size: 20px;
-     color: #ffffff; 
-     text-align: right;
+     font-size: 50px;
+     color: yellowgreen; 
+     text-align: left;
 }
 .care_text{
      width: 100%;
