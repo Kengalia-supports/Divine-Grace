@@ -406,7 +406,8 @@ button {
      text-align: center;
 }
 .x30space{
-     margin-: 30px;
+     margin-bottom: 30px;
+     padding-bottom: 30px;
 }
 .ipsum{
      list-style-position: inside;
