@@ -127,7 +127,7 @@ li,
 ol {
      margin: 0px;
      padding: 0px;
-     list-style: none;
+   /*  list-style: none;  */
 }
 
 p {
@@ -215,7 +215,7 @@ button {
 
 .layout_padding {
      padding-top: 90px;
-     padding-bottom: 0px;
+     padding-bottom: 20px;
 }
 
 .padding_0{
@@ -370,7 +370,7 @@ button {
 .about_text{
      width: 100%;
      float: left;
-     font-size: 20px;
+     font-size: 30px;
      color: #09d066; 
 }
 .highest_text{
@@ -381,9 +381,14 @@ button {
      font-weight: bold;
 }
 .about_taital{
-     width: 75%;
-     float: right;
+     width: 100%;
+     text-align: center;
+     margin: 20px;
+     padding: 50px;
 }
+
+
+
 .lorem_text{
      width: 100%;
      float: left;
@@ -396,6 +401,36 @@ button {
      width: 35%;
      float: left;
 }
+
+.center-header{
+     text-align: center;
+}
+.x30space{
+     margin-bottom: 30px;
+}
+.ipsum{
+     list-style-position: inside;
+     list-style-type:  circle;
+     
+}
+.service-style{
+     color: rgb(255, 255, 255);
+}
+.contained{
+     width: 100%;
+     text-align: justify;
+     margin: 20px;
+     padding: 50px;
+}
+.highest_text_choose{
+     width: 100%;
+     float: left;
+     font-size: 28px;
+     color: #303036;
+     font-weight: bold;
+     text-align: center;
+}
+
 .read_bt a{
      width: 100%;
      float: left;
@@ -450,7 +485,7 @@ button {
      color: #ffffff;
      margin-left: 0px;
      font-size: 16px;
-     text-align: right;
+     text-align: left;
 }
 
 .read_bt_2 {
@@ -506,7 +541,7 @@ button {
 .call_text{
      width: 100%;
      float: left;
-     font-size: 24px;
+     font-size: 20px;
      color: #ffffff;
      text-align: center;
      padding-top: 10px;
@@ -580,11 +615,11 @@ button {
 }
 .contact_text{
      width: 100%;
-     float: left;
+     text-align: center;
      font-size: 40px;
      color: #ffffff;
      font-weight: bold;
-     padding-bottom: 60px;
+    
 }
 
 .selfideno_text{
