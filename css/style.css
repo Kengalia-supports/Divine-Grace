@@ -253,7 +253,7 @@ button {
 .banner_section{
      width: 100%;
      float: left;
-     background-image: url(../images/banner-img.png);
+     background-image: url(../images/gallery/14.jpg);
      height: auto;
      background-size: 100%;
      background-repeat: no-repeat;
@@ -407,8 +407,9 @@ button {
      text-align: center;
 }
 .x30space{
-     margin-bottom: 30px;
-     padding-bottom: 30px;
+     padding-bottom: 5px;
+     background-color: white;
+     color:white;
 }
 .ipsum{
      list-style-position: inside;
@@ -420,8 +421,10 @@ button {
      color: yellowgreen;
 }
 .comingsec{
-     font-size: 90px;
-     color: white;
+     width: 100%;
+     float: left;
+     padding-top: 10px;
+     padding-left:10px;
 }
 .service-style{
      color: rgb(255, 255, 255);
@@ -576,7 +579,7 @@ button {
 }
 
 .padding_top0{
-     padding-top: 40px;
+     padding-top: 10px;
 }
 .read_main{
      width: 100%;
