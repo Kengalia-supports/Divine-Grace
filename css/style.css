@@ -214,7 +214,7 @@ button {
 }
 
 .layout_padding {
-     padding-top: 90px;
+     padding-top: 20px;
      padding-bottom: 20px;
 }
 
@@ -253,7 +253,7 @@ button {
 .banner_section{
      width: 100%;
      float: left;
-     background-image: url(../images/gallery/14.jpg);
+     background-image: url(../images/gallery/31.jpg);
      height: auto;
      background-size: 100%;
      background-repeat: no-repeat;
@@ -365,7 +365,7 @@ button {
 .about_section {
     width: 100%;
     float: left;
-    padding-bottom: 90px;
+    padding-bottom: 10px;
 }
 .about_text{
      width: 100%;
@@ -426,14 +426,20 @@ button {
      padding-top: 10px;
      padding-left:10px;
 }
-.header_section{
+/*.header_section{
 
      Position: sticky;
      width: 100%;
      top:0;
-	z-index: 1;
+     margin: 0 auto;
+	z-index: 999;
+     -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
      
 }
+*/
 
 
 .service-style{
